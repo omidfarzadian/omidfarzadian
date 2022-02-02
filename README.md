@@ -4,10 +4,7 @@
   <section>
     <h3 style="margin: 8px 0"><strong>✨ About me</strong></h3>
     <p style="margin: 8px 8px; line-height: 20px; text-align: justify">
-      Junior Frontend Developer at TIPS. Studying and working with Angular
-      framework and JavaScript language. Skilled in CSS and styling, Passing
-      education in Electronics Engineering at the University of Zanjan.
-      Interested in Web Development.
+      Mid-level Frontend Developer. Studying and working with Angular framework and JavaScript language. Skilled in CSS and styling, Passing education in Electronics Engineering at the University of Zanjan. Interested in Web Development.
     </p>
   </section>
   <br />
