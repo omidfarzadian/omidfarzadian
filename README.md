@@ -4,7 +4,7 @@
   <section>
     <h3 style="margin: 8px 0"><strong>✨ About me</strong></h3>
     <p style="margin: 8px 8px; line-height: 20px; text-align: justify">
-      Mid-level Frontend Developer. Studying and working with Angular framework and JavaScript language. Skilled in CSS and styling, Passing education in Electronics Engineering at the University of Zanjan. Interested in Web Development.
+I'm a software engineer with 3+ years of experience in developing ERP Solutions and event-driven systems. I'm interested in solving problems, solution architecture, design patterns, and databases. Also am interested in embedded programming and creating stuff for fun.
     </p>
   </section>
   <br />
